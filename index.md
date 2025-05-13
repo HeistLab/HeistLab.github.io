@@ -1,2 +1,2 @@
 
-1 - SP500 (IVV)&nbsp;&nbsp;--- MACD_V : 50.1&nbsp;&nbsp;--- Signal : 18.52&nbsp;&nbsp;--- Volume : 4075203&nbsp;&nbsp; --- Last Crossover : 11-04-2025 --- Life Cycle : <span style="color:green">Rallying</span>
+1 - SP500 (IVV)&nbsp;&nbsp;--- MACD_V : 50.1&nbsp;&nbsp;--- Signal : 18.52&nbsp;&nbsp;--- Volume : 4075203&nbsp;&nbsp; --- Last Crossover : 11-04-2025 --- Life Cycle : <span style="color:green">Rallying</span> 
